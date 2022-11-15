@@ -20,7 +20,7 @@ a {
 }
 
 figure img {
-    height: 100 px;
+    width: 100%;
 }
 
 figcaption {
