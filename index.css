@@ -18,3 +18,13 @@ li {
 a {
     text-decoration: none;
 }
+
+figure img {
+    height: 300 px;
+}
+
+figcaption {
+    margin: 10px 0 0 0;
+    font-size: 16px;
+    font-weight: bold;
+}
